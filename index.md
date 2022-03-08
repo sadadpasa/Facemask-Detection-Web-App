@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# Covidea
+## Facemask Detection Web App
+## Aplikasi Web
+Hingga saat ini, pandemi Covid-19 masih belum berakhir. Meskipun begitu, mayoritas perkantoran sudah mulai untuk melaksanakan kegiatan perkantoran secara Work from Office (WFO). Pelaksanaan sistem WFO tersebut tentunya juga diiringi dengan penerapan protokol kesehatan yang ketat, salah satunya adalah penggunaan masker ketika beraktivitas.
+Menurut Satuan Tugas Penanganan Covid-19, masih terdapat 38 kabupaten/kota di Indonesia yang memiliki tingkat kepatuhan memakai masker yang rendah yaitu di bawah 60%. 45 daerah lainnya memiliki tingkat kepatuhan pemakaian masker pada rentang 61%- 75% dan 92 daerah memilii tingkat kepatuhan pada rentang 76%-90%. Data-data tersebut menunjukkan bahwa masih didapati banyak masyarakat yang tidak menggunakan masker di tempat publik.
+Peningkatan kedisiplinan masyarakat dalam penggunaan masker perlu ditingkatkan. Hal ini bertujuan untuk mencegah risiko penyebaran virus Covid-19. Oleh karena itu, perlu diciptakan suatu sistem untuk sistem pendeteksi masker untuk memonitor penggunaan masker di suatu area/ruangan wajib masker.
+Manfaat alat ini untuk membantu fungsi monitoring masyarakat dalam penggunaan masker pencegahan penyebaran COVID-19 dari pengunjung yang tidak menggunakan masker. Dasar dari penelitian ini adalah Deep learning yang merupakan algoritma pemodelan tingkat tinggi, berlapis dan mendalam yang banyak diaplikasikan pada computer vision. Dari model tersebut nantinya hasilnya akan ditampilkan pada aplikasi web.
 
-You can use the [editor on GitHub](https://github.com/sadadpasa/Facemask-Detection-Web-App/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Aplikasi web pendeteksi penggunaan masker di tempat umum dengan kecerdasan buatan
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Anggota Kelompok :
+- Ketua Kelompok: Ade Firmansyah-19/440303/TK/48630
+- Anggota 1: Diah Ayu Widyati-19/444046/TK/49242
+- Anggota 2: Sadad Zulfanazhif Pasa-19/444069/TK/49265
+- Anggota 3: Fauziah Uswatun Hasanah-19/444050/TK/49246
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sadadpasa/Facemask-Detection-Web-App/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Project Senior Project TI
+### Departemen  Teknologi  Elektro  dan  Teknologi  Informasi,  Fakultas  Teknik, Universitas Gadjah Mada
