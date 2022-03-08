@@ -37,7 +37,7 @@
 
 ## Nama Produk
 
-> Nahu.id
+> Covedia
 
 ## Jenis Produk
 
