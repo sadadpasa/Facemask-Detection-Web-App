@@ -1,6 +1,6 @@
 # Facemask Detection Web App
 
-### Aplikasi web pendeteksi penggunaan masker di tempat umum dengan kecerdasan buatan
+### Aplikasi web pendeteksi penggunaan masker di tempat umum dengan kecerdasan buatan</br></br>
 
 ## Anggota Kelompok :
 <table>
