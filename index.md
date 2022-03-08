@@ -1,10 +1,6 @@
 # Covidea
 ## Facemask Detection Web App
 ## Aplikasi Web
-Hingga saat ini, pandemi Covid-19 masih belum berakhir. Meskipun begitu, mayoritas perkantoran sudah mulai untuk melaksanakan kegiatan perkantoran secara Work from Office (WFO). Pelaksanaan sistem WFO tersebut tentunya juga diiringi dengan penerapan protokol kesehatan yang ketat, salah satunya adalah penggunaan masker ketika beraktivitas.
-Menurut Satuan Tugas Penanganan Covid-19, masih terdapat 38 kabupaten/kota di Indonesia yang memiliki tingkat kepatuhan memakai masker yang rendah yaitu di bawah 60%. 45 daerah lainnya memiliki tingkat kepatuhan pemakaian masker pada rentang 61%- 75% dan 92 daerah memilii tingkat kepatuhan pada rentang 76%-90%. Data-data tersebut menunjukkan bahwa masih didapati banyak masyarakat yang tidak menggunakan masker di tempat publik.
-Peningkatan kedisiplinan masyarakat dalam penggunaan masker perlu ditingkatkan. Hal ini bertujuan untuk mencegah risiko penyebaran virus Covid-19. Oleh karena itu, perlu diciptakan suatu sistem untuk sistem pendeteksi masker untuk memonitor penggunaan masker di suatu area/ruangan wajib masker.
-Manfaat alat ini untuk membantu fungsi monitoring masyarakat dalam penggunaan masker pencegahan penyebaran COVID-19 dari pengunjung yang tidak menggunakan masker. Dasar dari penelitian ini adalah Deep learning yang merupakan algoritma pemodelan tingkat tinggi, berlapis dan mendalam yang banyak diaplikasikan pada computer vision. Dari model tersebut nantinya hasilnya akan ditampilkan pada aplikasi web.
 
 Aplikasi web pendeteksi penggunaan masker di tempat umum dengan kecerdasan buatan
 
