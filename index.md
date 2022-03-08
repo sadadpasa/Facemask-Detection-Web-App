@@ -35,7 +35,7 @@ Manfaat alat ini untuk membantu fungsi monitoring masyarakat dalam penggunaan ma
 
 ### Daftar Pustaka
 
-- https://databoks.katadata.co.id/datapublish/2021/10/24/kepatuhan-pakai-masker-di- 38-daerah-masih-rendah
+- https://databoks.katadata.co.id/datapublish/2021/10/24/kepatuhan-pakai-masker-di-38-daerah-masih-rendah
 
 ## Ide solusi yang diusulkan beserta rancangan fitur
 
