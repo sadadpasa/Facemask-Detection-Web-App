@@ -68,5 +68,5 @@ Manfaat alat ini untuk membantu fungsi monitoring masyarakat dalam penggunaan ma
 
 > Aplikasi web pendeteksi penggunaan masker di tempat umum dengan kecerdasan buatan
 
-## Project Senior Project TI
+### Project Senior Project TI
 ### Departemen  Teknologi  Elektro  dan  Teknologi  Informasi,  Fakultas  Teknik, Universitas Gadjah Mada
