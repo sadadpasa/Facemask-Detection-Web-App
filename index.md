@@ -13,7 +13,7 @@
 </thead>
 <tbody>
 <tr>
-<td align="center"><b>Ade Firmansyah<b/></td>
+<td align="center"><b>Ade Firmansyah</b></td>
 <td align="center">19/440303/TK/48630</td>
 <td align="center">AI Engineer &amp; Software Engineer</td>
 </tr>
