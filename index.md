@@ -86,7 +86,7 @@ Manfaat alat ini untuk membantu fungsi monitoring masyarakat dalam penggunaan ma
 ## Functional Requirements
 ![](/docs/assets/functionalreq.png)
 
-##
+## ERD dan Wireframe
 ![](/docs/assets/2.png)
 
 ## Gantt-Chart
