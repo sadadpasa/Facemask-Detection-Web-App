@@ -80,5 +80,8 @@ Manfaat alat ini untuk membantu fungsi monitoring masyarakat dalam penggunaan ma
 ## Pengguna Potensial
 > Produk ini memiliki potential partner yang cukup beragam dan bisa datang dari berbagai sektor. Hal itu dikarenakan produk kami dapat digunakan di berbagai tempat terutama tempat-tempat di dalam ruangan yang memerlukan bantuan teknologi dalam fungsi monitoringnya. Tempat-tempat tersebut dapat berupa gedung perkantoran, swalayan, sekolah, toko, pusat perbelanjaan, dan lain sebagainya. 
 
+## Use Case Diagram
+![Use Case](/assets/logo.png)
+
 ### Project Senior Project TI
 ### Departemen  Teknologi  Elektro  dan  Teknologi  Informasi,  Fakultas  Teknik, Universitas Gadjah Mada
