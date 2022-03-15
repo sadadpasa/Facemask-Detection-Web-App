@@ -81,7 +81,16 @@ Manfaat alat ini untuk membantu fungsi monitoring masyarakat dalam penggunaan ma
 > Produk ini memiliki potential partner yang cukup beragam dan bisa datang dari berbagai sektor. Hal itu dikarenakan produk kami dapat digunakan di berbagai tempat terutama tempat-tempat di dalam ruangan yang memerlukan bantuan teknologi dalam fungsi monitoringnya. Tempat-tempat tersebut dapat berupa gedung perkantoran, swalayan, sekolah, toko, pusat perbelanjaan, dan lain sebagainya. 
 
 ## Use Case Diagram
-![Use Case](/docs/assets/1.png)
+![Use Case](/docs/assets/usecase.png)
+
+## Functional Requirements
+![](/docs/assets/functionalreq.png)
+
+##
+![](/docs/assets/2.png)
+
+## Gantt-Chart
+![](/docs/assets/ganttchart.png)
 
 ### Project Senior Project TI
 ### Departemen  Teknologi  Elektro  dan  Teknologi  Informasi,  Fakultas  Teknik, Universitas Gadjah Mada
