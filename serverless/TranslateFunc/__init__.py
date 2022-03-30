@@ -1,6 +1,8 @@
+import json
 import logging
 
 import azure.functions as func
+from . import translate
 
 
 def main(req: func.HttpRequest) -> func.HttpResponse:
@@ -16,7 +18,8 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
         langTo = req_body.get('langTo')
 
     if text and langFrom and langTo :
-        return func.HttpResponse(f"this is the result")
+        result = translate.translateText(text, langFrom, langTo)
+        return func.HttpResponse(json.dumps(result, sort_keys=True, ensure_ascii=False, indent=4, separators=(',', ': ')))
     else:
         return func.HttpResponse(
              "This HTTP triggered function executed successfully. Pass a text, langFrom, langTo in the request body to get the result",
