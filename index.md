@@ -92,5 +92,8 @@ Manfaat alat ini untuk membantu fungsi monitoring masyarakat dalam penggunaan ma
 ## Gantt-Chart
 ![](/docs/assets/ganttchart.png)
 
+## Rancangan Arsitektur
+![](/docs/assets/Arsitektur.drawio (1).png)
+
 ### Project Senior Project TI
 ### Departemen  Teknologi  Elektro  dan  Teknologi  Informasi,  Fakultas  Teknik, Universitas Gadjah Mada
