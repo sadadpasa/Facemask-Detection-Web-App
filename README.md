@@ -1,6 +1,6 @@
-# AI-Translator-Web-App 
+# Language-Translator-Web-App 
 Deskripsi singkat aplikasi<br/> 
-AI Translator berbasis web app yang digunakan untuk menerjemahkan teks masukan menjadi beragam bahasa berbeda<br/>
+Suatu AI language translator berbasis web app yang digunakan untuk menerjemahkan teks masukan dari pengguna menjadi beragam bahasa berbeda<br/>
 
 NAMA KELOMPOK ANDA : Covidea<br/>
 Ketua Kelompok: Ade Firmansyah-19/440303/TK/48630 <br/> 
