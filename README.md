@@ -1,6 +1,6 @@
-# Facemask-Detection-Web-App 
+# AI-Translator-Web-App 
 Deskripsi singkat aplikasi<br/> 
-Face Mask Detection dengan Artificial Intelligence untuk mendeteksi protokol kesehatan berupa pemakaian masker masyarakat di tempat umum <br/>
+AI Translator berbasis web app yang digunakan untuk menerjemahkan teks masukan menjadi beragam bahasa berbeda<br/>
 
 NAMA KELOMPOK ANDA : Covidea<br/>
 Ketua Kelompok: Ade Firmansyah-19/440303/TK/48630 <br/> 
