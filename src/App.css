@@ -1,0 +1,9 @@
+a {
+  text-decoration: none !important;
+}
+
+.sidebar-active {
+  background-color: #4691f2 !important;
+  color: #ffffff !important;
+  border-radius: 10px !important;
+}
