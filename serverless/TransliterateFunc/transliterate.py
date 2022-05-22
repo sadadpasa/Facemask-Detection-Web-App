@@ -8,22 +8,22 @@ endpoint = "https://api.cognitive.microsofttranslator.com"
 # This is required if using a Cognitive Services resource.
 location = os.environ["LOCATION"]
 
-path = '/translate'
+path = '/transliterate'
 constructed_url = endpoint + path
 
-def translateText(text, langFrom, langTo):
+headers = {
+    'Ocp-Apim-Subscription-Key': key,
+    'Ocp-Apim-Subscription-Region': location,
+    'Content-type': 'application/json',
+    'X-ClientTraceId': str(uuid.uuid4())
+}
+
+def transliterateText(text, lang, fromScript, toScript):
     params = {
         'api-version': '3.0',
-        'from': langFrom,
-        'to': langTo,
-        'includeSentenceLength': True
-    }
-
-    headers = {
-        'Ocp-Apim-Subscription-Key': key,
-        'Ocp-Apim-Subscription-Region': location,
-        'Content-type': 'application/json',
-        'X-ClientTraceId': str(uuid.uuid4())
+        'language': lang,
+        'fromScript': fromScript,
+        'toScript': toScript
     }
 
     # You can pass more than one object in body.
