@@ -86,7 +86,7 @@
 ![](/docs/assets/usecasetranslator.png)
 
 ## Functional Requirements
-![](/docs/assets/functionalreq.png)
+![](/docs/assets/FR2.png)
 
 ## ERD dan Wireframe
 ![](/docs/assets/2.png)
