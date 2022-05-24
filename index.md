@@ -35,9 +35,13 @@
 </tbody>
 </table>
 
-## Nama Produk
+## Nama Kelompok
 
 > Covidea
+
+## Nama Produk
+
+> Language-Translator-Web-App
 
 ## Jenis Produk
 
@@ -51,6 +55,7 @@
 Menurut Satuan Tugas Penanganan Covid-19, masih terdapat 38 kabupaten/kota di Indonesia yang memiliki tingkat kepatuhan memakai masker yang rendah yaitu di bawah 60%. 45 daerah lainnya memiliki tingkat kepatuhan pemakaian masker pada rentang 61%- 75% dan 92 daerah memilii tingkat kepatuhan pada rentang 76%-90%. Data-data tersebut menunjukkan bahwa masih didapati banyak masyarakat yang tidak menggunakan masker di tempat publik.
 Peningkatan kedisiplinan masyarakat dalam penggunaan masker perlu ditingkatkan. Hal ini bertujuan untuk mencegah risiko penyebaran virus Covid-19. Oleh karena itu, perlu diciptakan suatu sistem untuk sistem pendeteksi masker untuk memonitor penggunaan masker di suatu area/ruangan wajib masker.
 Manfaat alat ini untuk membantu fungsi monitoring masyarakat dalam penggunaan masker pencegahan penyebaran COVID-19 dari pengunjung yang tidak menggunakan masker. Dasar dari penelitian ini adalah Deep learning yang merupakan algoritma pemodelan tingkat tinggi, berlapis dan mendalam yang banyak diaplikasikan pada computer vision. Dari model tersebut nantinya hasilnya akan ditampilkan pada aplikasi web.
+> Web translator : Kemajuan sektor pariwisata di Indonesia didukung pula oleh teknologi yang diterapkannya. Namun, masih belum banyak obyek wisata yang belum terlalu memanfaatkan kemajuan teknologi. Padahal penerapan teknologi dalam sektor pariwisata akan sangat membantu sektor tersebut baik bagi sisi pengelola maupun turis. Target wisatawan dari setiap obyek wisata, terutama wisata-wisata budaya ialah tidak hanya wisatawan domestik, namun juga wisatawan mancanegara. Salah satu cara untuk memnyokong sektor pariwisata adalah dengan membuat aplikasi translator berbasis web yang dapat digunakan oleh wisatawan untuk membantu menerjemahkan bahasa.
 
 ### Rumusan Permasalahan
 
@@ -76,6 +81,7 @@ Manfaat alat ini untuk membantu fungsi monitoring masyarakat dalam penggunaan ma
 
 ## Tujuan Produk
 > Facemask Detection Web App merupakan produk yang mengintegrasikan kamera dengan teknologi website untuk mendeteksi pemakaian masker di ruang publik. Tujuan dari adanya produk Facemask Detection Web App ini adalah untuk memudahkan fungsi pemantauan/monitoring masyarakat dalam pemakaian masker di ruang publik khususnya di dalam gedung seperti gedung perkantoran. Hal ini juga ditujukan untuk meningkatkan kedisiplinan masyarakat dalam pemakaian masker. Dengan adanya produk ini, petugas dengan mudah memantau siapa saja pengunjung yang tidak memakai atau sedang melepas maskernya selama berada di dalam gedung. Kemudian petugas dapat melakukan penertiban kepada orang-orang yang tidak mengenakan masker. Dengan demikian, diharapkan laju penyebaran virus pun dapat ditekan. 
+> Web translator : Menerjemahkan masukan teks user ke berbagai bahasa berbeda. Selain itu, aplikasi ini juga bisa mendeteksi secara otomatis bahasa yang digunakan pada masukan teks dari user dan menghitung jumlah kata-nya.
 
 ## Pengguna Potensial
 > Produk ini memiliki potential partner yang cukup beragam dan bisa datang dari berbagai sektor. Hal itu dikarenakan produk kami dapat digunakan di berbagai tempat terutama tempat-tempat di dalam ruangan yang memerlukan bantuan teknologi dalam fungsi monitoringnya. Tempat-tempat tersebut dapat berupa gedung perkantoran, swalayan, sekolah, toko, pusat perbelanjaan, dan lain sebagainya. 
