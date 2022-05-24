@@ -1,6 +1,6 @@
-# Facemask Detection Web App
+# Language-Translator-Web-App
 
-### Aplikasi web pendeteksi penggunaan masker di tempat umum dengan kecerdasan buatan</br></br>
+### Suatu AI language translator berbasis web app yang digunakan untuk menerjemahkan teks masukan dari pengguna menjadi beragam bahasa berbeda</br></br>
 
 ## Anggota Kelompok :
 <table>
@@ -37,7 +37,7 @@
 
 ## Nama Produk
 
-> Covedia
+> Covidea
 
 ## Jenis Produk
 
