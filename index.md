@@ -92,6 +92,9 @@
 ![](/docs/assets/2.png)
 
 ## Desain Interface
+![](/docs/assets/TranslateText.png)
+![](/docs/assets/DetectLang.png)
+![](/docs/assets/GetSentenceLen.png)
 
 ## Gantt-Chart
 ![](/docs/assets/ganttchart.png)
