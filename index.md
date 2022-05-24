@@ -83,7 +83,7 @@
 > Produk ini memiliki potential partner yang cukup beragam dan bisa datang dari berbagai sektor. Hal itu dikarenakan produk kami dapat digunakan oleh siapapun di manapun terutama di lokasi-lokasi wisata seperti situs bersejarah yang memiliki banyak wisatawan mancanegara. Pengelola obyek wisata dapat memanfaatkan produk ini untuk membantu wisatawan yang terkendala masalah bahasa.
 
 ## Use Case Diagram
-![Use Case](/docs/assets/use case translator.png)
+![](/docs/assets/usecasetranslator.png)
 
 ## Functional Requirements
 ![](/docs/assets/functionalreq.png)
@@ -92,9 +92,6 @@
 ![](/docs/assets/2.png)
 
 ## Desain Interface
-![](/docs/assets/Translate Text.png)
-![](/docs/assets/Detect Language.png)
-![](/docs/assets/Get Sentence Length.png)
 
 ## Gantt-Chart
 ![](/docs/assets/ganttchart.png)
