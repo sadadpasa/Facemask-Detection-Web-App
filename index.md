@@ -56,7 +56,7 @@ Menurut Satuan Tugas Penanganan Covid-19, masih terdapat 38 kabupaten/kota di In
 Peningkatan kedisiplinan masyarakat dalam penggunaan masker perlu ditingkatkan. Hal ini bertujuan untuk mencegah risiko penyebaran virus Covid-19. Oleh karena itu, perlu diciptakan suatu sistem untuk sistem pendeteksi masker untuk memonitor penggunaan masker di suatu area/ruangan wajib masker.
 Manfaat alat ini untuk membantu fungsi monitoring masyarakat dalam penggunaan masker pencegahan penyebaran COVID-19 dari pengunjung yang tidak menggunakan masker. Dasar dari penelitian ini adalah Deep learning yang merupakan algoritma pemodelan tingkat tinggi, berlapis dan mendalam yang banyak diaplikasikan pada computer vision. Dari model tersebut nantinya hasilnya akan ditampilkan pada aplikasi web.
 ### Latar Belakang 2
-> Web translator : Kemajuan sektor pariwisata di Indonesia didukung pula oleh teknologi yang diterapkannya. Namun, masih belum banyak obyek wisata yang belum terlalu memanfaatkan kemajuan teknologi. Padahal penerapan teknologi dalam sektor pariwisata akan sangat membantu sektor tersebut baik bagi sisi pengelola maupun turis. Target wisatawan dari setiap obyek wisata, terutama wisata-wisata budaya ialah tidak hanya wisatawan domestik, namun juga wisatawan mancanegara. Salah satu cara untuk memnyokong sektor pariwisata adalah dengan membuat aplikasi translator berbasis web yang dapat digunakan oleh wisatawan untuk membantu menerjemahkan bahasa.
+> Web translator : Kemajuan sektor pariwisata di Indonesia didukung pula oleh teknologi yang diterapkannya. Namun, masih belum banyak obyek wisata yang belum terlalu memanfaatkan kemajuan teknologi. Padahal penerapan teknologi dalam sektor pariwisata akan sangat membantu sektor tersebut baik bagi sisi pengelola maupun turis. Target wisatawan dari setiap obyek wisata, terutama wisata-wisata budaya ialah tidak hanya wisatawan domestik, namun juga wisatawan mancanegara. Salah satu cara untuk menyokong sektor pariwisata adalah dengan membuat aplikasi translator berbasis web yang dapat digunakan oleh wisatawan untuk membantu menerjemahkan bahasa. Maka dari itu kami berencana mengembangan suatu language translator berbasis web app. Aplikasi ini menjalankan fungsinya dengan memanfaatkan azure cognitive service, AI, dan lainnya.
 
 ### Rumusan Permasalahan
 
@@ -64,9 +64,16 @@ Manfaat alat ini untuk membantu fungsi monitoring masyarakat dalam penggunaan ma
  
 - Bagaimana memanfaatkan jaringan komputer, kecerdasan buatan dan komputasi awan dalam face mask detection web app?
 
+### Rumusan Permasalahan 2
+
+- Bagaimana Language-Translator-Web-App dapat mempermudah seseorang dalam hal penerjemahan bahasa?
+ 
+- Bagaimana memanfaatkan jaringan komputer, kecerdasan buatan dan komputasi awan dalam Language-Translator-Web-App?
+
 ### Daftar Pustaka
 
 - https://databoks.katadata.co.id/datapublish/2021/10/24/kepatuhan-pakai-masker-di-38-daerah-masih-rendah
+- https://jurnal.uisu.ac.id/index.php/wahana/article/view/5023/3602
 
 ## Ide solusi yang diusulkan beserta rancangan fitur
 
