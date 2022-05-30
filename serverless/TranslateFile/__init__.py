@@ -4,12 +4,13 @@ import azure.functions as func
 from azure.storage.blob import BlobServiceClient, BlobClient
 from datetime import datetime
 import uuid
+import os
 
 FUNC_NAME = 'TRANSLATE_FILE'
 def main(req: func.HttpRequest, outputDocument: func.Out[func.Document]) -> func.HttpResponse:
     logging.info('Python HTTP trigger function processed a request.')
-    connectionString = 'DefaultEndpointsProtocol=https;AccountName=seniorprojectstorage;AccountKey=zpmwp7h8JeW7sOOjw9vBh9gEC1ZYpYRn335PO1BJa6nDj5B/ww/Cp9zpk3oaXAwNwGQvx94lRqEk+AStXP7ibw==;EndpointSuffix=core.windows.net'
-    containerName = 'sourcefile'
+    connectionString = os.environ["CONTAINER_CONNECTION_STRING"]
+    containerName = os.environ["CONTAINER_NAME"]
     try:
         file = req.files.get('file')
         langTo = req.params.get('langTo')
