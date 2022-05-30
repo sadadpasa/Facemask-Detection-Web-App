@@ -15,8 +15,7 @@ def translateText(text, langFrom, langTo):
     params = {
         'api-version': '3.0',
         'from': langFrom,
-        'to': langTo,
-        'includeSentenceLength': True
+        'to': langTo
     }
 
     headers = {

@@ -18,11 +18,10 @@
     },
     {
       "type": "cosmosDB",
-      "direction": "out",
-      "name": "outputDocument",
+      "direction": "in",
+      "name": "doc",
       "databaseName": "Covidea",
       "collectionName": "Log",
-      "createIfNotExists": false,
       "connectionStringSetting": "CosmosDbConnectionString"
     }
   ]

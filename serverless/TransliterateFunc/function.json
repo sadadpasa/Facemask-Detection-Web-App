@@ -15,6 +15,15 @@
       "type": "http",
       "direction": "out",
       "name": "$return"
+    },
+    {
+      "type": "cosmosDB",
+      "direction": "out",
+      "name": "outputDocument",
+      "databaseName": "Covidea",
+      "collectionName": "Log",
+      "createIfNotExists": false,
+      "connectionStringSetting": "CosmosDbConnectionString"
     }
   ]
 }
