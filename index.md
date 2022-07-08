@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td align="center">Diah Ayu Widyati</td>
-<td align="center">119/444046/TK/49242</td>
+<td align="center">19/444046/TK/49242</td>
 <td align="center">UI/UX Designer</td>
 </tr>
 <tr>
