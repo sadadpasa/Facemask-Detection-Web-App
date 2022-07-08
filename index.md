@@ -88,8 +88,8 @@
 ## Functional Requirements
 ![](/docs/assets/FR2.png)
 
-## ERD dan Wireframe
-![](/docs/assets/2.png)
+## ERD
+![](/docs/assets/erd2.png)
 
 ## Desain Interface
 ![](/docs/assets/TranslateText.png)
