@@ -100,7 +100,7 @@
 ![](/docs/assets/ganttchart.png)
 
 ## Rancangan Arsitektur
-![Arsitektur Azure](/docs/assets/arsitektur.png)
+![Arsitektur Azure](/docs/assets/arsi2.png)
 
 ### Project Senior Project TI
 ### Departemen  Teknologi  Elektro  dan  Teknologi  Informasi,  Fakultas  Teknik, Universitas Gadjah Mada
